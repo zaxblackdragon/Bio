@@ -1,9 +1,37 @@
 
+.container {
+    max-width: 100%;
+    padding-left: 0px;
+}
+.nav-item {
+    padding-left: 50px;
+    /* padding-top: 15px; */
+}
+a {
+    color: rgb(121, 230, 255);
+}
+#img-linkedin {
+    height: 15px;
+    padding: 0px;
+}
+#logo-text {
+    padding-left: 100px;
+    padding-top: 25px;
+}
+#zac-logo {
+    height: 50px;
+}
+#nav-email {
+    font-size: 15px;
+}
 #h1-title {
     float: left;
 }
 #banner {
-max-width: 100%;
+    max-width: 100%;
+    position: relative;
+    z-index: -1;
+    margin-top: -100px;
 }
 #header {
     position: sticky;
@@ -13,9 +41,9 @@ max-width: 100%;
     max-width: 100%;
 }
 #nav {
-    position: sticky;
-    top: 0;
+    position: relative;
+    background-image: linear-gradient(to top, rgba(255,0,0,0),black);
 }
-.navbar {
-    background: blue;
+#img-container {
+    
 }
