@@ -23,7 +23,7 @@ This site is about my abilities as a programmer and a window into what I've done
     * **Jquery** &#10139; Experienced in applying JQuery to facilitate dynamic web applications
     * **NodeJS** &#10139; Experienced building server based applications with NodeJS
     * **Nodemon** &#10139; Experienced in applying Nodemon to facilitate server functions during development.
-    * **Express** &#10139; Experienced in applying Express for for high performance and robust rounting in web based applications
+    * **Express** &#10139; Experienced in applying Express for for high performance and robust routing in web based applications
     * **MySQL** &#10139; Experienced in creating database structures using MySQL for cloud based web applications
     * **Sequelize** &#10139; Experienced in creating and rounting  OEM database modules for frontend database necessities.
     * **MongoDB** &#10139; Experienced ???????
